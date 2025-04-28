@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**tanviarora12/tanviarora12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Data Analyst skilled in Python, Excel, SQL and Data Visualization.
 
-Here are some ideas to get you started:
+## Projects
+- *Netflix EDA* — Exploratory analysis of Netflix dataset using Python.
+- *Sales Dashboard* — Interactive sales report built with Excel.
+- *Customer Churn Prediction* — Machine learning model to predict customer churn.
+- *Data Cleaning SQL* — Cleaning messy customer data with SQL queries.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python (Pandas, Matplotlib)
+- Excel (Dashboards, Pivot Tables)
+- SQL (Data Cleaning and Analysis)
+- Machine Learning Basics (Logistic Regression)
+
+
