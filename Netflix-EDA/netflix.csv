@@ -1,0 +1,2 @@
+show_id,type,title,director,cast,country,date_added,release_year,rating,duration,listed_in,description
+s1,Movie,Example Movie,John Doe,Actor A,USA,January 1, 2020,2020,PG,90 min,Dramas,Sample description
